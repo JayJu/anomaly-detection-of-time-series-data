@@ -2,6 +2,7 @@
 
 #### 시계열 데이터의 패턴 유형
     1. ##### Trend(추세)
+        ![](/img/time_series_trend.jpg)
         * 설명
             * 오랜 기간 동안 나타나는 패턴. 긍정적/부정적/선형/비선형 등 모든 형태의 불규칙적인 결과들
             * 시계열에 증가 또는 감소하는 패턴이 없으면 변화가 없는(stationary) 것으로 간주
@@ -13,12 +14,15 @@
                 * 시계열의 성장이나 감소율이 자기 과거 값들의 종속관계로 설명됨
                 * 추세를 제거하는 방법은 적절한 차수의 차분을 이용(차분모형)
         
-    2. ##### Cyclic(순환)
+    2. ##### Cyclical(순환)
+        ![](/img/time_series_cyclical.jpg)
         * 설명
             * 특정 트렌드 주변으로 나타나는 증가/감소 패턴
             * 시계열 에서 진동 처럼 나타나는 패턴
-            * 준환 주기는 비즈니스 문제나 산업군에 따라 다름
+            * 순환 주기는 비즈니스 문제나 산업군에 따라 다름
+            
     3. ##### Seasonal(계절)
+        ![](/img/time_series_seasonality.jpg)
         * 설명
             * 규칙적인 파동으로 나타나는 패턴
             * 데이터가 계절적인 요인이나 맞춤요인(Custom Factor)으로 인해 일정한 간격으로 정기적으로 발생
@@ -32,5 +36,6 @@
             * 가법모형(Additive Model of Time Series )
             * 승법모형(Multiplicative Model of Time Series)
             
-    4. ##### Irreguar
+    4. ##### Irreguar(불규칙성)
+        ![](/img/time_series_irregular.jpg)
     
