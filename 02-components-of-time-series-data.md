@@ -28,6 +28,9 @@
             * 제도(Institutions)
             * 사회적인 습관이나 관행(Social hibits & practics)
             * 일정(Calendar)
+        * 시계열 데이터에서 계절성 패턴을 생성하는 두 가지 모형
+            * 가법모형(Additive Model of Time Series )
+            * 승법모형(Multiplicative Model of Time Series)
             
     4. ##### Irreguar
     
