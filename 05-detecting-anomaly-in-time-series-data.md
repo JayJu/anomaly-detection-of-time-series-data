@@ -20,5 +20,14 @@
         * **Ramp Up**
             * 하나의 정상 상태에서 다른 상태로 메트릭 값이 갑자기 증가하는 것
             * mean shift 과 비교하여 하나의 안정된 상태에서 다른 상태로 천천히 전이하는 과정
+    * 종종 위 두가지 특성이 같이 나타나기도 함
         
 #### 시계열에서 Breakout 감지하기
+    * Breakout 을 찾아내기 위해 트위터에서 "BreakoutDetection" 이라는 패키지 발표
+    * 빠른 속도로 Breakout 을 감지하는 오픈 소스 패키지
+    * E-Divisive with Medians (EDM) 알고리즘을 사용하여 평균 내 분기를 감지
+    * 시계열 내의 분포 변화를 감지하는 데에도 사용 가능
+    
+---
+
+## Need for Machine Learning and Deep Learning in Time Series Data
