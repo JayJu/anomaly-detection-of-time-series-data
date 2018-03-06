@@ -29,3 +29,13 @@
 #### 시계열 데이터베이스란
     * 시계열 데이터 처리를 목적으로 만들어진 DBMS
     * 기존의 관계형 DBMS 에서 처리하기에 적합하지 않은 복잡하고 대량으로 발생되는 시계열 데이터 처리에 최적화됨
+    
+#### 시계열 데이터베이스의 종류
+    * CrateDB
+    * Graphite
+    * InfluxDB
+    * Informix TimeSeries
+    * Kx kdb+
+    * Riak-TS
+    * RRDtool
+    * OpenTSDB
