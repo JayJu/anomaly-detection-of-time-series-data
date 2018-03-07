@@ -28,6 +28,3 @@
     * E-Divisive with Medians (EDM) 알고리즘을 사용하여 평균 내 분기를 감지
     * 시계열 내의 분포 변화를 감지하는 데에도 사용 가능
     
----
-
-## Need for Machine Learning and Deep Learning in Time Series Data
